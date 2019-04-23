@@ -1,0 +1,18 @@
+Project Name: AMZLite
+Code Written By: Jesus M. Rodriguez.
+
+Purpose:
+ - to implement a smaller-scale version of the events of one 24-hour cycle of work occurring at DLA9.
+
+Scope:
+	- Stowing: 1 stower, 1 scanner, 1 bag, 1 oversize.
+    - Picking: 1 picker, 1 scanner, 1 bag, 1 oversize, 1 rack.
+    - Staging: 1 picker, 1 scanner, 1 staging square.
+    - Dispatching: 1 driver, 1 scanner, 1 rack, 1 bag, 1 oversize.
+    - Delivering: 1 driver, 1 scanner, 1 address, 1 package.
+
+Optional:
+ - Database to store the scanned information.
+
+Log: 
+4/12 - Greeting Card, Main Prompt. Design Doc.
